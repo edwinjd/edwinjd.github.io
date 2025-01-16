@@ -4467,7 +4467,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/dji-21.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dji-20.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": true,
@@ -4951,7 +4951,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/aerial-6.png",
+                "image": "@PROJECT_PATH@/assets/images/aerial-2.jpeg",
                 "active": true,
                 "showButtons": false,
                 "showText": true,
